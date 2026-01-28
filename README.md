@@ -13,7 +13,6 @@ Welcome to the Collaborative Drawing Platform! This project is a real-time, inte
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
